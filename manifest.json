@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "extension test",
-    "short_name": "extest",
+    "name": "AtCoder Virtual Contest Timer",
+    "short_name": "AVC Timer",
     "version": "0.0.0.0",
     "icons": {
         "16": "images/icon/icon_16.png",
@@ -25,6 +25,6 @@
             "19": "images/icon/icon_19.png",
             "38": "images/icon/icon_38.png"
         },
-        "default_title": "Ext title"
+        "default_title": "AVC Timer"
     }
 }
